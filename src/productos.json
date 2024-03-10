@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "T-Shirt",
+    "description": "T-Shirt Cartoon",
+    "price": 350,
+    "thumbnail": "url",
+    "code": "T1",
+    "stock": 50
+  },
+  {
+    "id": 2,
+    "title": "Gorra",
+    "description": "Popeye",
+    "price": 250,
+    "thumbnail": "url",
+    "code": "G1",
+    "stock": 50
+  },
+  {
+    "id": 3,
+    "title": "SmartPhone",
+    "description": "iPhone 15",
+    "price": 11500,
+    "thumbnail": "url",
+    "code": "SP1",
+    "stock": 75
+  },
+  {
+    "id": 4,
+    "title": "Tablet",
+    "description": "iPad",
+    "price": 9500,
+    "thumbnail": "url",
+    "code": "TB1",
+    "stock": 75
+  },
+  {
+    "id": 5,
+    "title": "SmartPhone",
+    "description": "SamSung",
+    "price": 10000,
+    "thumbnail": "url",
+    "code": "SPS1",
+    "stock": 75
+  },
+  {
+    "id": 6,
+    "title": "Monitor",
+    "description": "LG 4k",
+    "price": 11500,
+    "thumbnail": "url",
+    "code": "M2",
+    "stock": 75
+  },
+  {
+    "id": 7,
+    "title": "Consola",
+    "description": "PS5",
+    "price": 7500,
+    "thumbnail": "url",
+    "code": "C1",
+    "stock": 75
+  },
+  {
+    "id": 8,
+    "title": "Monitor",
+    "description": "ASUS 4K Gamer",
+    "price": 11500,
+    "thumbnail": "url",
+    "code": "M1",
+    "stock": 75
+  },
+  {
+    "id": 9,
+    "title": "PC",
+    "description": "PC Razer Gamer",
+    "price": 16000,
+    "thumbnail": "url",
+    "code": "PC1",
+    "stock": 75
+  },
+  {
+    "id": 10,
+    "title": "PC",
+    "description": "PC Razer Gamer Core i9",
+    "price": 20000,
+    "thumbnail": "url",
+    "code": "PC2",
+    "stock": 75
+  }
+]
